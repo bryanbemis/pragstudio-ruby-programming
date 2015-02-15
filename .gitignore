@@ -1,3 +1,5 @@
 # Ignore the following
 .DS_Store
 other/*
+*.sublime-project
+*.sublime-workspace

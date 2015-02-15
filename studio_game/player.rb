@@ -50,7 +50,7 @@ class Player
 
         puts "#{@name} found a #{treasure.name} worth #{treasure.points} points."
 
-        puts "#{@name}'s treasures: #{@found_treasures}"
+        # puts "#{@name}'s treasures: #{@found_treasures}"
     end
 
     def points
